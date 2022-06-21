@@ -1,0 +1,16 @@
+.features{
+	margin: 4em auto; 
+	padding: 1em;
+	position: relative;
+}
+
+.feature-title{
+	font-size: 3rem; 
+	font-weight: 300; 
+	margin-bottom: 50px;
+}
+
+.quiz p{
+	font-size: 2rem;
+}
+
